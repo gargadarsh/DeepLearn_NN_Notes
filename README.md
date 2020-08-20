@@ -12,5 +12,4 @@ Machine Learning, Neural Nets, Deep Learning Optimization Notes
         <li>sklearn</li>
       </ul>
     </li>
-
 </ul>
